@@ -1,11 +1,7 @@
 package main
 
-import 
-	"fmt"
-
+import "fmt"
 
 func main() {
-	fmt.Prinln("hello, we are testing tags")
+	fmt.Println("hello, we are testing tags")
 }
-
-tag

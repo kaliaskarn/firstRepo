@@ -1,6 +1,12 @@
 github.com/kaliaskarn/dog v0.0.0-20231222153126-c8f2b7be24df h1:7DEs8DiT1O005v3HWKLgRoNAbiRFDxVYYt0oSRu1F44=
 github.com/kaliaskarn/dog v0.0.0-20231222153126-c8f2b7be24df/go.mod h1:uojMPRsvomzludbt6uhVb2eO4+v5icuxqYUHdc8nGtQ=
-github.com/kaliaskarn/puppy v0.0.0-20231222151234-835f76f74e57 h1:c3aWqWhcDkQAB/uHoamD3ZT6FPATcIByAUYiTh6AgTo=
-github.com/kaliaskarn/puppy v0.0.0-20231222151234-835f76f74e57/go.mod h1:mwkepsRO+bhc7vYVJUfML9QkxEo5BuDI6r3n5m+7XOc=
 github.com/kaliaskarn/puppy v0.0.0-20231222154110-472def22c379 h1:kIMMgh9MD5e5xA5iNV1vq7E9nvoYrGTNdvenyOlLBW0=
 github.com/kaliaskarn/puppy v0.0.0-20231222154110-472def22c379/go.mod h1:JUOecfYEN7EZ4+YYqHj2p+lq9e9GbyeRaChMSC53eQk=
+github.com/kaliaskarn/puppy v1.0.0 h1:LJKrJktAtsajybUdimwHZHkvBo/Bk1XPw10KsMiQa+c=
+github.com/kaliaskarn/puppy v1.0.0/go.mod h1:JUOecfYEN7EZ4+YYqHj2p+lq9e9GbyeRaChMSC53eQk=
+github.com/kaliaskarn/puppy v1.1.0 h1:JArPgvP+5rfsJVejuw3wXu2KJt2fDrzoe3gT6JL5lVo=
+github.com/kaliaskarn/puppy v1.1.0/go.mod h1:JUOecfYEN7EZ4+YYqHj2p+lq9e9GbyeRaChMSC53eQk=
+golang.org/x/crypto v0.18.0 h1:PGVlW0xEltQnzFZ55hkuX5+KLyrMYhHld1YHO4AKcdc=
+golang.org/x/crypto v0.18.0/go.mod h1:R0j02AL6hcrfOiy9T4ZYp/rcWeMxM3L6QYxlOuEG1mg=
+golang.org/x/exp v0.0.0-20240112132812-db7319d0e0e3 h1:hNQpMuAJe5CtcUqCXaWga3FHu+kQvCqcsoVaQgSV60o=
+golang.org/x/exp v0.0.0-20240112132812-db7319d0e0e3/go.mod h1:idGWGoKP1toJGkd5/ig9ZLuPcZBC3ewk7SzmH0uou08=
